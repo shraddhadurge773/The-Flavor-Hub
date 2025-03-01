@@ -69,3 +69,10 @@ button.btn:hover, a.btn:hover{
   background-position: center;
   border-radius: 10px;
 }
+
+/* Media query */
+@media (max-width: 991.5px) {
+  #category a.btn {
+    margin-bottom: 20px;
+  }
+}

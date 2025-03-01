@@ -12,7 +12,7 @@ function Categories() {
         {id:4, type:"Desserts", image: dessert},
     ];
   return (
-    <section class>
+    <section id='category'>
         <h2 className='mt-5 mb-4'>Categories</h2>
         <div className='row'>
             {categories.map((category) => (
