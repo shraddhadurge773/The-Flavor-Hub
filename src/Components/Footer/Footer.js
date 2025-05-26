@@ -5,7 +5,7 @@ const Footer = () => {
   return (
     <footer className="text-center py-3 fixed-bottom">
       <div className="container">
-        <p>© {new Date().getFullYear()} JobBoard. All rights reserved.</p>
+        <p>© {new Date().getFullYear()} Shraddha Durge.</p>
       </div>
     </footer>
   )
